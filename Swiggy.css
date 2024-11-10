@@ -1,0 +1,188 @@
+.swiggy{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.logo> img{
+    margin-left: 100px;
+    height: 60px;
+    width: 100px;
+}
+
+.logo_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* width: 100px; */
+}
+.nav{
+    align-items: center;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.selectors{
+    margin-right: 100px;
+    color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* width: 60%; */
+    width: 68vw;
+}
+
+.selectors b{
+    fill: orange;
+    font-weight: bold;
+}
+
+._1GTCc:hover,.swl:hover{
+    fill: orange;
+    color: orange;
+}
+
+.swl sup{
+    fill: orange;
+    color: orange;
+}
+.op0:hover{
+    color: orange;
+}
+
+.location select{
+    color: black;
+    background-color: white;
+    text-decoration: underline;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+.location select:hover{
+    color: orange;
+}
+
+.food1,.food2{
+    padding: 0px 150px;
+
+}
+.List_food1{
+    width: 1250px;
+    display: flex;
+    overflow: hidden;   
+}
+
+.List_food1 img{
+    height: 180px;
+}
+.food2 ul{
+    width: 900px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 
+}
+
+.food2 li{
+    background-color: rgb(246, 244, 244);
+    list-style: none;
+    padding: 5px 10px;
+    border: .5px solid gray;
+    border-radius: 50px;
+}
+
+.heading2{
+    margin-left: 140px;
+}
+
+.food_items1{
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: white;
+    border-radius: 20px;
+}
+
+.food_items2{
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/64fd45fd9f44c1737bc446e470bed666);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: white;
+    border-radius: 20px;
+}
+.food_items3{
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d3najev2rpzakxfvp318);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: rgb(247, 243, 243);
+    border-radius: 20px;
+}
+
+.food_items4{
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/9/e0ab56c3-3d8e-4214-8705-240795d737c0_822315.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: rgb(247, 243, 243);
+    border-radius: 20px;
+}
+.food_items1 h3,.food_items2 h3,.food_items3 h3,.food_items4 h3{
+    position: relative;
+    top: 170px;
+ 
+}
+
+.food3{
+    width: 80vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+.card1{
+  padding-left: 20px;
+}
+
+.padding_cont{
+     display: flex;   
+     width: 70vw;
+
+}
+
+/* ------------- " Footer " ----------- */
+
+.footer{
+    margin: 0;
+    padding:0 250px 0 250px;
+    /* width: 100%; */
+    
+    justify-content: center;
+    background: rgb(243, 243, 243);
+}
+
+.h1{
+    width: auto;
+    display: flex;
+    gap: 40px ;
+    padding-top: 30px;
+}
+.h1>span{
+    padding-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 900;
+
+}
+.h2{
+    display: flex;
+    gap: 50px;
+    padding-top: 50px;
+}
+li{
+    list-style: none;   
+}
+a{
+    text-decoration: none;
+    color:grey;
+}
